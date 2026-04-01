@@ -1,5 +1,5 @@
-**Notice from repo owner:**
-This was from Gemini 2.5 Pro. The other two `Early2026` ones are from 3.0 or 3.1 Pro. I was asking the model to generate NO signs with their Python interpreter and outputting the data as Base64. Perhaps an overload caused the leak and strange `'v' an't help but go on.` text at the top. This was done in Google AI Studio so no system prompt from the standard Gemini app existed.  
+**Notice from repo owner:**  
+This was from Gemini 2.5 Pro. The other two `Early2026` ones are from 3.0 or 3.1 Pro. I was asking the model to generate NO signs with their Python interpreter and outputting the data as Base64. Perhaps an overload caused the leak and strange `'v' an't help but go on.` text at the top. This was done in Google AI Studio so no system prompt from the standard Gemini app existed. I did not ask the model about bankruptcy. In fact, in the previous message, it was outputting thousands of tokens of Base64 text for the bitmaps.  
 
 Below is the unedited leak.
 
