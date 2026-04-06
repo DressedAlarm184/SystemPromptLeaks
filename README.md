@@ -15,6 +15,7 @@ This repo contains full or nearly full leaks of system prompts from AI models. T
 * [ ] Microsoft Copilot
 * [x] GPT-5.3 (or 5.4)
 * [ ] GitHub Copilot
+* [ ] Gemini in Chrome Auto Browse
 
 ## Chain-of-Thought (CoT) leaks
 Chain-of-Thought (CoT) leaks will be documented in a seperate folder inside the repo. CoT leaks will be the raw CoT, and not the summarized version that the UI typically shows. The filename will contain the model and usually date. All of these CoT leaks are legit from normal chatting with models. They are not engineered into existence.
