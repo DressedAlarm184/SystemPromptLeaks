@@ -6,6 +6,7 @@ This repo contains full or nearly full leaks of system prompts from AI models. T
 * ``GeminiInstructions03-25-26.md`` contains the overview of Google Gemini system instructions. I do not believe these change between selected model. This was obtained using the Fast option in the UI. As I would discover a few days later, this was not the full leak, only around half of it.
 * ``GeminiSystemPrompt_FULL_VERSION_033026.md`` contains the comprenshive full system prompt for Gemini. It contains everything the previous one had, along with special new instructions I had never seen before.
 * ``GPT-5mini_SystemPrompt_04-01-26.md`` contains seemingly updated instructions for GPT-5 mini. The contents at the start about calculating digit-by-digit and more are intact, but other parts have changed. This one also contains some tool documentation too. I cannot really tell if the previous one was not the full leak (they do that sometimes) or if the prompt was updated between now and then. Captured without Cynical preset enabled.
+* ``GeminiSystemPrompt-Aug2025.md`` contains the leak of Google Gemini's system prompt from rougly August 2025. The file contains a chat log of obtaining the prompt, along with my saved info (none of it dangerous to expose) contained within it too. The model of Gemini active at this time would be in the Gemini 2.5 series.
 
 ## Todo of Models
 * [x] Google Gemini
