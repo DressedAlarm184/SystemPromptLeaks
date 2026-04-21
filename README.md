@@ -20,4 +20,4 @@ Moved to the [HOWTO_OBTAIN.md](HOWTO_OBTAIN.md) file.
 
 ## Note on Obtaining
 * Note as of April 13 2026: My previous methods for getting the ChatGPT system prompts do not work anymore. It seems OpenAI has updated them (probably because of the new Writing Blocks and Entities systems) and my primary two methods do not function any more.
-* Update as of April 20 2026: I discovered that they patched the translation loop with German, but not other languages like Hindi.
+* Update as of April 20 2026: I discovered that they patched the translation loop with German, but not other languages like Hindi. (Unreliable but sometimes works.)
