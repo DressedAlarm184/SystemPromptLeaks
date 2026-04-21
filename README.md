@@ -1,5 +1,6 @@
 # SystemPromptLeaks
-This repository is dedicated to sharing full or partial system prompt leaks from popular AI models. I will personally verify the leaks I extract by testing the model with edge cases.
+This repository is dedicated to sharing full or partial system prompt leaks from popular AI models. I will personally verify the leaks I extract by testing the model with edge cases.  
+**Note: This is a hobby project and not meant to be professional.**
 
 ## About the Leaks
 Moved to the [ABOUT_LEAKS.md](ABOUT_LEAKS.md) file.
