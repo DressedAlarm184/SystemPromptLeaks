@@ -12,14 +12,11 @@ Moved to the [ABOUT_LEAKS.md](ABOUT_LEAKS.md) file.
 * [x] GitHub Copilot
 * [x] Gemini in Chrome Auto Browse
 * [ ] GPT-5.5
+* [ ] GPT-5.6 Luna
 
 ## Chain-of-Thought (CoT) leaks
-This repository will also house Chain-of-Thought (CoT) leaks. These leaks will be the unedited raw CoTs and not the summaries that the interface usually shows. These are inside the [CoT_Leaks](CoT_Leaks/) folder and are all genuine.
+This repository will also house Chain-of-Thought (CoT) leaks. These leaks will be the unedited raw CoTs and not the summaries that the interface usually shows. These are inside the [thoughts](../thoughts/) folder and are all genuine.
 
-## How To Obtain
-Moved to the [HOWTO_OBTAIN.md](HOWTO_OBTAIN.md) file. (Note that this file may be outdated and not reflect current obtain methods.)
-
-## Notes on Obtaining
-Moved to the [OBTAIN_NOTES.md](OBTAIN_NOTES.md) file.
-
-**Note: This is a hobby project and not meant to be professional.**
+## Info on Obtaining
+* Information on how to obtain various system prompts has been moved to the [HOW_TO_OBTAIN.md](HOW_TO_OBTAIN.md) file. (Note that this file may be outdated and not reflect current obtain methods.)
+* Various notes and news on obtaining leaks have been moved to the [OBTAIN_NOTES.md](OBTAIN_NOTES.md) file.
