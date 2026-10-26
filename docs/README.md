@@ -11,8 +11,7 @@ Moved to the [ABOUT_LEAKS.md](ABOUT_LEAKS.md) file.
 * [x] GPT-5.3 (or 5.4)
 * [x] GitHub Copilot
 * [x] Gemini in Chrome Auto Browse
-* [ ] GPT-5.5
-* [ ] GPT-5.6 Luna
+* [x] GPT-6
 
 ## Chain-of-Thought (CoT) leaks
 This repository will also house Chain-of-Thought (CoT) leaks. These leaks will be the unedited raw CoTs and not the summaries that the interface usually shows. These are inside the [thoughts](../thoughts/) folder and are all genuine.
